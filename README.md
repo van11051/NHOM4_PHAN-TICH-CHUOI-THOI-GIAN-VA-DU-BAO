@@ -2,7 +2,7 @@
 
 > **Môn học:** Phân tích và Dự báo Chuỗi Thời gian (127109)  
 > **Nhóm:** Nhóm 4  
-> **Trường:** Đại học Kinh tế TP.HCM (UEH)
+> **Trường:** Đại học Giao thông vận tải Thành phố Hồ Chí Minh 
 
 ---
 
